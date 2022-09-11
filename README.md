@@ -12,6 +12,7 @@
 <hr size = "2" nosade>
 
 <div align="center">
+<a href="https://github.com/LuanR44">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanR44&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
