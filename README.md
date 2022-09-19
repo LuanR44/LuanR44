@@ -2,7 +2,7 @@
 
 <h3 align="left">ABOUT ME:</h3>
 
-- 🌱 I’m currently learning C and React.
+- 📚 I’m currently learning C, Java, HTML, CSS, Javascript and React.
 
 - 📝 I'm collaborating on several projects at the University.
 <hr size = "2" nosade>
