@@ -2,7 +2,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 📚 I’m currently learning Python and QA Tests.
+- 📚 I’m currently learning Python, JavaScript and QA Tests.
 
 - 📝 I'm collaborating on several projects at the University.
 <hr size = "2" nosade>
