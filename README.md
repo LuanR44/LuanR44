@@ -38,7 +38,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LuanR44&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=LuanR44&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuanR44&show_icons=true&locale=en&theme=merko&rank_icon=github&include_all_commits=true&count_private=true" />
