@@ -55,7 +55,7 @@
 </picture>
     
   <a href="https://tryhackme.com/p/Bradd">
-  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Bradd.png" alt="TryHackMe"> 
+  <img src="https://tryhackme-badges.s3.amazonaws.com/LuanR44.png" alt="TryHackMe">
   </a>
   
   <br/>
