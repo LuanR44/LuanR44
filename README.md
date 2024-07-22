@@ -1,5 +1,15 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=abd200&width=500&height=70&duration=4000&pause=1500&lines=Hi+There+👋;+My+Name+is+Luan;+Welcome+to+my+Github!" />
+    <picture>
+      <source
+        srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=abd200&width=500&height=70&duration=4000&pause=1500&lines=Hi+There+👋;+My+Name+is+Luan;+Welcome+to+my+Github!"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1500&lines=Hi+There+👋;+My+Name+is+Luan;+Welcome+to+my+Github!"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1500&lines=Hi+There+👋;+My+Name+is+Luan;+Welcome+to+my+Github!" />
+    </picture>
 </h1>
 
 <h3 align="center">A CyberSecurity Student 👨🏻‍💻 </h3>
@@ -31,7 +41,7 @@
 <h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <div align=center>
-    
+  
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=LuanR44&show_icons=true&locale=en&theme=merko&rank_icon=github&include_all_commits=true&count_private=true"
