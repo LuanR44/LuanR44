@@ -16,7 +16,7 @@
  
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools That I've Already Had Contact With ⚒️</h2>
+<h3 align="center">⚒️ Languages-Frameworks-Tools That I've Already Had Contact With ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,c,cs,js,swift,unity,powershell,bots,discordjs,nodejs,npm,docker,mysql,mongodb" />
@@ -27,7 +27,7 @@
 <hr/>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <div align=center>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanR44&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
