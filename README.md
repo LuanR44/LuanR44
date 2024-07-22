@@ -1,11 +1,11 @@
 <h1 align="center">
     <picture>
       <source
-        srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=abd200&width=500&height=70&duration=4000&pause=1500&lines=Hi+There+👋;+My+Name+is+Luan;+Welcome+to+my+Github!"
+        srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=ABD200&width=500&height=70&duration=4000&pause=1500&lines=Hi+There+👋;+My+Name+is+Luan;+Welcome+to+my+Github!"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1500&lines=Hi+There+👋;+My+Name+is+Luan;+Welcome+to+my+Github!"
+        srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=2F80ED&width=500&height=70&duration=4000&pause=1500&lines=Hi+There+👋;+My+Name+is+Luan;+Welcome+to+my+Github!"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1500&lines=Hi+There+👋;+My+Name+is+Luan;+Welcome+to+my+Github!" />
