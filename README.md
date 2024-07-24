@@ -54,8 +54,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuanR44&show_icons=true&locale=en&theme=merko&rank_icon=github&include_all_commits=true&count_private=true" />
 </picture>
     
-  <a href="https://tryhackme.com/p/Bradd">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Bradd.png" alt="TryHackMe">
+  <a href="https://tryhackme.com/p/Br4dd">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Br4dd.png" alt="TryHackMe">
   </a>
   
   <br/>
