@@ -12,13 +12,13 @@
     </picture>
 </h1>
 
-<h3 align="center"> Backend, QA and CyberSecurity 👨🏻‍💻 </h3>
+<h3 align="center"> A Backend Developer, QA and CyberSecurity 👨🏻‍💻 </h3>
 
 <br/>
 
 <div align="center">
  
- 📚 I’m currently learning CyberSecurity and QA Tests.
+ 📚 I’m currently learning about CyberSecurity, QA Tests and Backend Developer.
  
  📝 I'm collaborating on several projects at the University.
 
