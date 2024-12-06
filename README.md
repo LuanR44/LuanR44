@@ -12,7 +12,7 @@
     </picture>
 </h1>
 
-<h3 align="center">A CyberSecurity Student 👨🏻‍💻 </h3>
+<h3 align="center"> Backend, QA and CyberSecurity 👨🏻‍💻 </h3>
 
 <br/>
 
