@@ -18,7 +18,7 @@
 
 <div align="center">
  
- 📚 I’m currently learning about CyberSecurity, QA Tests and Backend Developer.
+ 📚 I’m currently learning about CyberSecurity, IOS and Backend Developer.
 
  </div>
  
