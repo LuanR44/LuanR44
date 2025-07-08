@@ -12,7 +12,7 @@
     </picture>
 </h1>
 
-<h3 align="center"> CyberSecurity, Backend Developer and QA 👨🏻‍💻 </h3>
+<h3 align="center"> CyberSecurity, Backend and IOS Developer 👨🏻‍💻 </h3>
 
 <br/>
 
