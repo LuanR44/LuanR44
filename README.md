@@ -12,13 +12,13 @@
     </picture>
 </h1>
 
-<h3 align="center"> CyberSecurity, Backend and IOS Developer 👨🏻‍💻 </h3>
+<h3 align="center"> CyberSecurity, Backend and AI 👨🏻‍💻 </h3>
 
 <br/>
 
 <div align="center">
  
- 📚 I’m currently learning about CyberSecurity, IOS and Backend Developer.
+ 📚 I’m currently learning about CyberSecurity, AI and Backend Developer.
 
  </div>
  
